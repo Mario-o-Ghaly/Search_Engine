@@ -1,0 +1,4 @@
+www.test1.com,2
+www.test2.com,0
+www.test3.com,0
+www.test4.com,0
