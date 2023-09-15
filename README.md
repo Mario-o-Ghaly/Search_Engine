@@ -1,6 +1,6 @@
 # Search-Engine
  ## Overview
- This is a search engine utilizing *Object-Oriented Programming* in *C++* without using any GUI. Its main focus is on updating a webpage rank using the impressions, number of clicks, CTR, and score along with trying to analyze and design the most efficient algorithm.
+ This is a search engine utilizing *Object-Oriented Programming* in **C++** without using any GUI. Its main focus is on updating a webpage rank using the impressions, number of clicks, CTR, and score along with trying to analyze and design the most efficient algorithm.
 
  This project was developed by the author individually in Spring 2022.
 
